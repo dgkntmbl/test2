@@ -1,0 +1,4 @@
+repository "deneme_uc_spawn_enemy@daiman_4314426@cloud"
+  path "/"
+    br "/main"
+    co "/main"
